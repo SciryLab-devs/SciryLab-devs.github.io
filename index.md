@@ -56,4 +56,4 @@
 
 ###  Contact us
 
-[SciryLab Support Mail](scirylab@gmail.com) 
+[SciryLab Support Mail](mailto:scirylab@gmail.com)
