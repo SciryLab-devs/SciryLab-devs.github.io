@@ -30,7 +30,10 @@
 </p>
 
 ### Our Services
-SciryLab offers a wide range of services to help you in your digital transformation. Whether you are looking for innovative solutions in IT or digital marketing, we are there for you. Trust us and we will make you enjoy.
+
+<p>
+  SciryLab offers a wide range of services to help you in your digital transformation. Whether you are looking for innovative solutions in IT or digital marketing, we are there for you. Trust us and we will make you enjoy.</p>
+  
 ```
 1. <strong>Application development</strong>
 2. <strong>Webmastering</strong>
@@ -41,7 +44,9 @@ SciryLab offers a wide range of services to help you in your digital transformat
 ``` 
 
 ### Our team
-<p>Our team is composed of:
+
+<p>
+  Our team is composed of:
     <ul>
         <li><i class='ion-android-checkmark-circle'></i>design engineers</li>
         <li><i class='ion-android-checkmark-circle'></i>web developers</li>
