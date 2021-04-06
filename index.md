@@ -1,6 +1,6 @@
 ## Welcome to SciryLab page
 
-### About us
+###  About us
 <p>
   <h5>Let's start with the name of our Start-up.</h5>
   <p><strong>Sciry</strong> is an English word which is not widespread at all and which means according to its origin <strong><em>a person who is talented in multiple skills</em></strong></p>
@@ -30,11 +30,10 @@
 </p>
 
 
-### Our Services
+###  Our Services
 
 <p>
-  SciryLab offers a wide range of services to help you in your digital transformation. Whether you are looking for innovative solutions in IT or digital marketing, we are there for you. Trust us and we will make you enjoy.</p>
-<p>
+  SciryLab offers a wide range of services to help you in your digital transformation. Whether you are looking for innovative solutions in IT or digital marketing, we are there for you. Trust us and we will make you enjoy.
   <ol>
         <li><strong>Application development</strong></li>
         <li><strong>Webmastering</strong></li>
@@ -45,7 +44,7 @@
    </ol>
 </p>
 
-### Our team
+###  Our team
 
 <p>
   Our team is composed of:
@@ -61,7 +60,7 @@
 </p>
 
 
-### Contact us
+###  Contact us
 
 [SciryLab Support Mail](scirylab@gmail.com) 
 
