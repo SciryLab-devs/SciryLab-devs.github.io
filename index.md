@@ -25,13 +25,9 @@
         <li><i class='ion-android-checkmark-circle'></i>more sales</li>
     </ul>
     In one sentence, we help our customers to overcome the barriers of technology to increase their business.</p>
-    <h5> Why should you trust us ?</h5>
-    <p>Having studied under extreme conditions in engineering school and with all the experience gained on our various projects, we know what it is to surpass oneself, and how it can be beneficial in the realization of your projects.</p>
 </p>
 
-##
 ### Services
-
 
 <p>
   SciryLab offers a wide range of services to help you in your digital transformation. Whether you are looking for innovative solutions in IT or digital marketing, we are there for you. Trust us and we will make you enjoy.
@@ -45,14 +41,10 @@
    </ol>
 </p>
 
-##
 ### Team
-
-
 <p>
   Our team is composed of:
     <ul>
-        <li><i class='ion-android-checkmark-circle'></i>design engineers</li>
         <li><i class='ion-android-checkmark-circle'></i>web developers</li>
         <li><i class='ion-android-checkmark-circle'></i>mobile developers</li>
         <li><i class='ion-android-checkmark-circle'></i>designers</li>
@@ -62,10 +54,6 @@
     </ul>
 </p>
 
-##
 ###  Contact us
 
-
 [SciryLab Support Mail](scirylab@gmail.com) 
-
-[SciryLab Support Phone Number](tel://+22962109040) 
