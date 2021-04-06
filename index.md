@@ -56,4 +56,4 @@
 
 <h3>Contact us</h3>
 
-[SciryLab Support Mail](mailto:scirylab@gmail.com)
+<a href="mailto:scirylab@gmail.com">SciryLab Support Mail</a>
