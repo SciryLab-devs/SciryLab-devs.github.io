@@ -13,7 +13,7 @@
     Each skill is intrinsic to a person of the SciryLab team if you have understood the concept.</p>
     <p>According to the same origin, <strong><em>a sciry is always working hard to reach his/her goals</em></strong> <br/>
     A key characteristic and a philosophy that we advocate at SciryLab :
-    <strong>nwe work hard to give life & smile to our customers' project.</strong></br>
+    <strong>we work hard to give life & smile to our customers' project.</strong>
 </p>
 
 <p>
@@ -29,19 +29,25 @@
     <p>Having studied under extreme conditions in engineering school and with all the experience gained on our various projects, we know what it is to surpass oneself, and how it can be beneficial in the realization of your projects.</p>
 </p>
 
+
 ### Our Services
 
 <p>
   SciryLab offers a wide range of services to help you in your digital transformation. Whether you are looking for innovative solutions in IT or digital marketing, we are there for you. Trust us and we will make you enjoy.</p>
   
 ```
+<p>
+
 1. <strong>Application development</strong>
 2. <strong>Webmastering</strong>
 3. <strong>Blogging</strong>
 4. <strong>Consultation IT & Design</strong>
 5. <strong>Social network coverage</strong>
 6. <strong>YouTube Channel</strong>
+
+</p>
 ``` 
+
 
 ### Our team
 
@@ -57,6 +63,7 @@
         <li><i class='ion-android-checkmark-circle'></i>writers</li>
     </ul>
 </p>
+
 
 ### Contact us
 
