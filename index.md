@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+## Welcome to SciryLab page
 
-You can use the [editor on GitHub](https://github.com/SciryLab-devs/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About us
+<p>
+  <h5>Let's start with the name of our Start-up.</h5>
+  <p><strong>Sciry</strong> is an English word which is not widespread at all and which means according to its origin <strong><em>a person who is talented in multiple skills</em></strong></p>
+</p>
+            
+<p>
+    <h5>Why this choice ?</h5>
+    <p>The talented person in question is indeed a legal entity, i.e. our Start-up<br/>
+    As a result, he/she has several skills in a wide variety of fields.
+    Each skill is intrinsic to a person of the SciryLab team if you have understood the concept.</p>
+    <p>According to the same origin, <strong><em>a sciry is always working hard to reach his/her goals</em></strong> <br/>
+    A key characteristic and a philosophy that we advocate at SciryLab :
+    <strong>nwe work hard to give life & smile to our customers' project.</strong></br>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>
+    <p class='mb-0'>To do this, we use all the technical arsenal at our disposal to offer the best to our customers.
+    We assist our customers in a vision of increased growth, i.e:
+    <ul>
+        <li><i class='ion-android-checkmark-circle'></i>more visibility</li>
+        <li><i class='ion-android-checkmark-circle'></i>more customers</li>
+        <li><i class='ion-android-checkmark-circle'></i>more sales</li>
+    </ul>
+    In one sentence, we help our customers to overcome the barriers of technology to increase their business.</p>
+    <h5> Why should you trust us ?</h5>
+    <p>Having studied under extreme conditions in engineering school and with all the experience gained on our various projects, we know what it is to surpass oneself, and how it can be beneficial in the realization of your projects.</p>
+</p>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Our Services
+SciryLab offers a wide range of services to help you in your digital transformation. Whether you are looking for innovative solutions in IT or digital marketing, we are there for you. Trust us and we will make you enjoy.
 ```
+1. <strong>Application development</strong>
+2. <strong>Webmastering</strong>
+3. <strong>Blogging</strong>
+4. <strong>Consultation IT & Design</strong>
+5. <strong>Social network coverage</strong>
+6. <strong>YouTube Channel</strong>
+``` 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Our team
+<p>Our team is composed of:
+    <ul>
+        <li><i class='ion-android-checkmark-circle'></i>design engineers</li>
+        <li><i class='ion-android-checkmark-circle'></i>web developers</li>
+        <li><i class='ion-android-checkmark-circle'></i>mobile developers</li>
+        <li><i class='ion-android-checkmark-circle'></i>designers</li>
+        <li><i class='ion-android-checkmark-circle'></i>digital marketing experts</li>
+        <li><i class='ion-android-checkmark-circle'></i>copywriters</li>
+        <li><i class='ion-android-checkmark-circle'></i>writers</li>
+    </ul>
+</p>
 
-### Jekyll Themes
+### Contact us
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SciryLab-devs/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[SciryLab Support Mail](scirylab@gmail.com) 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[SciryLab Support Phone Number](tel://+22962109040) 
