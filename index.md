@@ -27,7 +27,7 @@
     In one sentence, we help our customers to overcome the barriers of technology to increase their business.</p>
 </p>
 
-### Services
+<h3>Services</h3>
 
 <p>
   SciryLab offers a wide range of services to help you in your digital transformation. Whether you are looking for innovative solutions in IT or digital marketing, we are there for you. Trust us and we will make you enjoy.
@@ -41,7 +41,7 @@
    </ol>
 </p>
 
-### Team
+<h3>Team</h3>
 <p>
   Our team is composed of:
     <ul>
@@ -54,6 +54,6 @@
     </ul>
 </p>
 
-###  Contact us
+<h3>Contact us</h3>
 
 [SciryLab Support Mail](mailto:scirylab@gmail.com)
