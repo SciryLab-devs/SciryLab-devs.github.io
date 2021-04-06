@@ -29,8 +29,9 @@
     <p>Having studied under extreme conditions in engineering school and with all the experience gained on our various projects, we know what it is to surpass oneself, and how it can be beneficial in the realization of your projects.</p>
 </p>
 
-
+##
 ### Services
+
 
 <p>
   SciryLab offers a wide range of services to help you in your digital transformation. Whether you are looking for innovative solutions in IT or digital marketing, we are there for you. Trust us and we will make you enjoy.
@@ -44,8 +45,10 @@
    </ol>
 </p>
 
-
+##
 ### Team
+
+
 <p>
   Our team is composed of:
     <ul>
@@ -59,8 +62,9 @@
     </ul>
 </p>
 
-
+##
 ###  Contact us
+
 
 [SciryLab Support Mail](scirylab@gmail.com) 
 
