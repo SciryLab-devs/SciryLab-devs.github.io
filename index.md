@@ -1,4 +1,4 @@
-## Welcome to SciryLab page
+## Welcome on SciryLab page
 
 ### About us
 <p>
