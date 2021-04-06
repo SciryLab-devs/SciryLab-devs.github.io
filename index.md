@@ -35,12 +35,14 @@
 <p>
   SciryLab offers a wide range of services to help you in your digital transformation. Whether you are looking for innovative solutions in IT or digital marketing, we are there for you. Trust us and we will make you enjoy.</p>
 <p>
-1. <strong>Application development</strong>
-2. <strong>Webmastering</strong>
-3. <strong>Blogging</strong>
-4. <strong>Consultation IT & Design</strong>
-5. <strong>Social network coverage</strong>
-6. <strong>YouTube Channel</strong>
+  <ol>
+        <li><strong>Application development</strong></li>
+        <li><strong>Webmastering</strong></li>
+        <li><strong>Blogging</strong></li>
+        <li><strong>Consultation IT & Desig</strong></li>
+        <li><strong>Social network coverage</strong></li>
+        <li><strong>YouTube Channel</strong></li>
+   </ol>
 </p>
 
 ### Our team
